@@ -1,4 +1,4 @@
-// Bouton de téléchargement du modèle depuis Hugging Face (optionnel)
+// Bouton de téléchargement du modèle depuis Hugging Face (optionnel) j
 const downloadButton = document.getElementById('downloadModel');
 
 downloadButton.addEventListener('click', () => {
